@@ -1,6 +1,6 @@
 # Agile Engine Bank Code Challenge
 
-To run the application you must have `docker` installed
+To run the application, you must have `docker` installed.
 
 More information to install it: https://docs.docker.com/
 
@@ -21,6 +21,6 @@ On project root directory run
 $ docker-compose up -d
 ```
 
-Then go directly to `http://localhost:3000` and start operate.
+Then go directly to `http://localhost:3000` and start operating.
 
-The API is running over `http://localhost:3001/`
+The API is running over `http://localhost:3001/.`
